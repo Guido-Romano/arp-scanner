@@ -1,4 +1,4 @@
-# <span style="color:purple;">ARP Network Scanner v1.0</span>
+<h1 style="color:#800080;">ARP Network Scanner v1.0</h1>
 
 A Python script designed to scan the local network using the Address Resolution Protocol (ARP). Perfect for identifying connected devices on Class C networks.
 
